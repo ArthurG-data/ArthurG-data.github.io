@@ -5,7 +5,7 @@
 ### Education
 - M.S. Data Analytics - Computational Data Science - Queensland University of Technology at Brisbane (December 2024)
 
-- M.S. Biomedical Sciences - Universitée de Montréal at Montréal (June 2020)</span>
+- M.S. Biomedical Sciences - Universitée de Montréal at Montréal (June 2020)
   
 ---
 ### Work Experience
