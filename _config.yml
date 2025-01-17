@@ -6,4 +6,4 @@ theme: jekyll-theme-minimal
 sass:
   style: expanded
 include:
-  - assets/css/styles.css
+  - assets/css/style.css
