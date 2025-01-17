@@ -1,9 +1,11 @@
+<img src="{{ site.logo }}" alt="Logo" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 2px solid #000;">
+
 # Data Scientist
 
 ### Education
 - M.S. Data Science - Computationnal Major  Queensland University of Technology at Brisbane (December 2024)
 - M.S. Biomedical Sciences Universitée de Montréal at Montréal (June 2020)
-- 
+  
 ---
 ### Work Experience
 ## Data Analyst Intern @ SAS Institute (November 2023 - December 2023)
