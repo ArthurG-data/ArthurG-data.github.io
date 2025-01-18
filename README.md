@@ -1,9 +1,9 @@
 # Data Scientist
 
 ### Education
-- <u>M.S. Data Analytics</u> Queensland University of Technology 12-2024 
+- <u>M.S. Data Analytics</u> Queensland University of Technology (12-2024)
 
-- <u>M.S. Biomedical Sciences</u> Universitée de Montréal 06-2020
+- <u>M.S. Biomedical Sciences</u> Universitée de Montréal (06-2020)
   
 ---
 ### Work Experience
