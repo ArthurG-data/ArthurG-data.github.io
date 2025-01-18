@@ -39,4 +39,4 @@ Designed and implemented a scalable web application for analyzing and comparing 
 
 The application allowed users to upload bacterial data files, perform similarity computations, and view results in real-time, showcasing the ability to handle large datasets efficiently. Although the application is no longer live or actively served, it demonstrates expertise in cloud computing, data analysis workflows, and full-stack development.
 
-Repository: [Link Text]https://github.com/ArthurG-data/web-app-bacteria-comp
+[View Repository](https://github.com/ArthurG-data/web-app-bacteria-comp)
