@@ -35,3 +35,10 @@
 
 ---
 ### Projects
+
+#### Scalable Web Application to Compute Similarity Scores Between Bacteria
+Designed and implemented a scalable web application for analyzing and comparing bacteria by computing similarity scores. This project involved integrating cloud services like AWS for storage (S3) and computation, as well as developing a user-friendly frontend using React and a backend API powered by Node.js.
+
+The application allowed users to upload bacterial data files, perform similarity computations, and view results in real-time, showcasing the ability to handle large datasets efficiently. Although the application is no longer live or actively served, it demonstrates expertise in cloud computing, data analysis workflows, and full-stack development.
+
+Repository: https://github.com/ArthurG-data/web-app-bacteria-comp
