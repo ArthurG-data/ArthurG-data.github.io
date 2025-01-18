@@ -3,7 +3,4 @@ logo: /assets/img/circle_profile_1.png
 description: Data Science Portfolio
 show_downloads: False
 theme: jekyll-theme-minimal
-sass:
-  style: expanded
-include:
-  - assets/css/style.css
+
