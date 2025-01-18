@@ -10,8 +10,11 @@
 
 #### Data Analyst Intern @ SAS Institute (11-2023 - 12-2023)
 -	Assisted with data analysis projects by leveraging SAS tools for cleaning, preprocessing, and visualization. Provided technical support to users and contributed to solving complex data analysis tasks.
+<br/>
 -	Conducted data cleaning, preprocessing, and visualisation using SAS tools.
+<br/>
 -	Successfully solved technical issues from users while demonstrating mastery of visual analytics to solve data analysis tasks.
+<br/>
 -	Won a Kaggle data analysis contest, showcasing advanced analytical and problem-solving skills.
 
 #### Lead Laboratory Analyst @ Agnico Eagles Mines Limited (09-2020 - 10-2022)
