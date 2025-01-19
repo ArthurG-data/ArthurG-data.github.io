@@ -55,3 +55,10 @@ The outcome of the project was a significant performance improvement, with a spe
 Developed an AI-based Sokoban puzzle solver using Python, leveraging search algorithms and state-space exploration techniques. The solver intelligently navigates through complex puzzle configurations by applying AI search strategies such as A* and breadth-first search. The project demonstrates advanced problem-solving capabilities, including the use of heuristic-driven searches to minimize moves and optimize solutions. The integration of AI allowed the solver to handle dynamic puzzle layouts and varying target goals, making it a versatile tool for Sokoban puzzle analysis.
 
 [View Repository](https://github.com/ArthurG-data/ai_puzzle_solving)
+
+#### Grazing into the Futur
+
+Developed and implemented a comprehensive time series forecasting model using Vector Autoregression (VAR) and Recurrent Neural Networks (RNNs). Utilized R for data preprocessing, analysis, and visualization, with Python for modeling and algorithm optimization. The project involved applying VAR to capture the linear relationships between multiple time series and leveraging RNNs for learning complex temporal dependencies. Focused on model evaluation, performance tuning, and result interpretation for accurate forecasting in dynamic environments.
+
+[View Repository](https://github.com/ArthurG-data/agriculture_ai)
+
