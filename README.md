@@ -34,6 +34,12 @@
 ---
 ### Projects
 
+#### Predicting Outcomes and Scores in Rugby World Cup 2023
+
+Developed a comprehensive machine learning analysis pipeline to predict match outcomes and study performance metrics in Rugby World Cup 2023. Leveraged Principal Component Analysis (PCA) to reduce 29 performance indicators into 8 key components, explaining 85% of the variance. Implemented logistic regression for win/loss predictions and regularized linear regression for score difference estimation. Utilized Python libraries for data preprocessing, statistical modeling, and visualization. Demonstrated expertise in sports analytics, feature reduction, and predictive modeling.
+
+[View Repository](https://github.com/ArthurG-data/rugby_world_cup_prediction)
+
 #### Scalable Web Application to Compute Similarity Scores Between Bacteria
 Designed and implemented a scalable web application for analyzing and comparing bacteria by computing similarity scores. This project involved integrating cloud services like AWS for storage (S3) and computation, as well as developing a user-friendly frontend using React and a backend API powered by Node.js.
 
@@ -50,15 +56,17 @@ The outcome of the project was a significant performance improvement, with a spe
 
 [View Repository](https://github.com/ArthurG-data/similarity_parallelized)
 
+#### Grazing into the Futur
+
+Developed and implemented a comprehensive time series forecasting model using Vector Autoregression (VAR) and Recurrent Neural Networks (RNNs). Utilized R for data preprocessing, analysis, and visualization, with Python for modeling and algorithm optimization. The project involved applying VAR to capture the linear relationships between multiple time series and leveraging RNNs for learning complex temporal dependencies. Focused on model evaluation, performance tuning, and result interpretation for accurate forecasting in dynamic environments.
+
+[View Repository](https://github.com/ArthurG-data/agriculture_ai)
+
 #### AI-Powered Sokoban Puzzle Solver
 
 Developed an AI-based Sokoban puzzle solver using Python, leveraging search algorithms and state-space exploration techniques. The solver intelligently navigates through complex puzzle configurations by applying AI search strategies such as A* and breadth-first search. The project demonstrates advanced problem-solving capabilities, including the use of heuristic-driven searches to minimize moves and optimize solutions. The integration of AI allowed the solver to handle dynamic puzzle layouts and varying target goals, making it a versatile tool for Sokoban puzzle analysis.
 
 [View Repository](https://github.com/ArthurG-data/ai_puzzle_solving)
 
-#### Grazing into the Futur
 
-Developed and implemented a comprehensive time series forecasting model using Vector Autoregression (VAR) and Recurrent Neural Networks (RNNs). Utilized R for data preprocessing, analysis, and visualization, with Python for modeling and algorithm optimization. The project involved applying VAR to capture the linear relationships between multiple time series and leveraging RNNs for learning complex temporal dependencies. Focused on model evaluation, performance tuning, and result interpretation for accurate forecasting in dynamic environments.
-
-[View Repository](https://github.com/ArthurG-data/agriculture_ai)
 
