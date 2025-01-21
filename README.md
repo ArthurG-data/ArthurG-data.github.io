@@ -74,4 +74,8 @@ The solution for the Automated Fungi Classification project employs a Vision Tra
 
 [View Repository](https://github.com/ArthurG-data/classification_mushrooms)
 
+#### Object Oriented C# Game Application 
 
+Developed a SOS game application in #, utilizing advanced design patterns and SOLID principles. Designed a modular system supporting multiple play modes, including Human vs. Human, Human vs. AI, and AI vs. AI. Integrated Command, Strategy, Composite, Decorator, and Template Method design patterns to ensure scalability and maintainability. Built robust save/load functionality with undo capabilities and dynamic board configurations. Applied Object-Oriented Programming (OOP) best practices to create reusable and extensible components for future game expansions.
+
+[View Repository](https://github.com/ArthurG-data/game_sos_project)
