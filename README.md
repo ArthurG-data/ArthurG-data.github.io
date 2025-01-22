@@ -47,6 +47,12 @@ The application allowed users to upload bacterial data files, perform similarity
 
 [View Repository](https://github.com/ArthurG-data/web-app-bacteria-comp)
 
+#### Crowd Counting using Density Maps and DNN
+
+As a Machine Learning Engineer, I developed a cutting-edge crowd counting solution using the Density Map Method. This project leveraged advanced deep learning techniques, including an Encoder-Decoder Neural Network with a pre-trained VGG16 encoder to extract image features and generate accurate density maps. The solution was implemented using TensorFlow and Keras, incorporating Gaussian Kernels for adaptive density map creation and a custom loss function combining Mean Squared Error (MSE) and Structural Similarity Index (SSIM) for precision. The system was trained and evaluated on the Beijing-BRT Dataset, utilizing data augmentation techniques such as random cropping and horizontal flipping to enhance generalization. This work showcases expertise in computer vision, deep learning, and scalable model design.
+
+[View Repository](https://github.com/ArthurG-data/crowd_counting_density)
+
 #### Bacteria Comparison Using k-mer Frequencies
 Developed a high-performance application to compare bacterial proteomes based on k-mer frequency analysis. The tool calculates the stochastic probability of 6-mers, 5-mers, and amino acids to determine bacterial similarity.
 
@@ -79,3 +85,5 @@ The solution for the Automated Fungi Classification project employs a Vision Tra
 Developed a SOS game application in #, utilizing advanced design patterns and SOLID principles. Designed a modular system supporting multiple play modes, including Human vs. Human, Human vs. AI, and AI vs. AI. Integrated Command, Strategy, Composite, Decorator, and Template Method design patterns to ensure scalability and maintainability. Built robust save/load functionality with undo capabilities and dynamic board configurations. Applied Object-Oriented Programming (OOP) best practices to create reusable and extensible components for future game expansions.
 
 [View Repository](https://github.com/ArthurG-data/game_sos_project)
+
+
