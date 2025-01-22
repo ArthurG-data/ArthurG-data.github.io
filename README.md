@@ -68,7 +68,7 @@ The outcome of the project was a significant performance improvement, with a spe
 
 [View Repository](https://github.com/ArthurG-data/similarity_parallelized)
 
-#### bioinformatics Portfolio
+#### Bioinformatics Portfolio
 
 **Sequencing Reads Alignment and Genome Annotation Analysis:** Aligned sequencing reads to reference genomes using Bowtie2 and analyzed results with featureCounts for genomic insights. Developed Python code to process and visualize genomic data efficiently.
 
