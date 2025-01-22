@@ -34,6 +34,12 @@
 ---
 ### Projects
 
+#### Differential Gene Expression (DGE) Analysis
+
+The project involved a comprehensive comparison of Differential Gene Expression (DGE) tools for RNA-seq analysis, focusing on four major pipelines: edgeR, DESeq2, limma+voom, and NOISeq. Using synthetic RNA-seq datasets, the study evaluated the tools based on sensitivity, specificity, runtime efficiency, and their ability to detect differentially expressed genes under various conditions. By analyzing performance metrics such as concordance, false discovery rates, and computational efficiency, the project provided critical insights into the strengths and trade-offs of each tool, helping inform their application in genomics research and bioinformatics.
+
+[View Repository](https://github.com/ArthurG-data/Differential_gene_expression_analysis)
+
 #### Predicting Outcomes and Scores in Rugby World Cup 2023
 
 Developed a comprehensive machine learning analysis pipeline to predict match outcomes and study performance metrics in Rugby World Cup 2023. Leveraged Principal Component Analysis (PCA) to reduce 29 performance indicators into 8 key components, explaining 85% of the variance. Implemented logistic regression for win/loss predictions and regularized linear regression for score difference estimation. Utilized Python libraries for data preprocessing, statistical modeling, and visualization. Demonstrated expertise in sports analytics, feature reduction, and predictive modeling.
