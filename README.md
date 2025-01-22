@@ -68,6 +68,18 @@ The outcome of the project was a significant performance improvement, with a spe
 
 [View Repository](https://github.com/ArthurG-data/similarity_parallelized)
 
+#### bioinformatics Portfolio
+
+**Sequencing Reads Alignment and Genome Annotation Analysis:** Aligned sequencing reads to reference genomes using Bowtie2 and analyzed results with featureCounts for genomic insights. Developed Python code to process and visualize genomic data efficiently.
+
+**CRISPR Guide RNA Specificity Evaluation:** Evaluated CRISPR guide RNA specificity to minimize off-target effects by analyzing potential mismatches using Python and genome datasets (E. coli, S. aureus, etc.). Automated the identification of off-target sites and calculated risk scores based on the Zhang method.
+
+**Microbiome Analysis of Smokers and Non-Smokers**: Investigated the impact of smoking on microbiome diversity in the nose and throat using Calour (Python library) with BIOM tables, metadata, and taxonomy files. Analyzed microbial community differences between smokers and non-smokers.
+
+**Microbial Abundance Classification**: Developed machine learning classifiers to predict smoking status based on microbiome data, utilizing scikit-learn in Jupyter/Colab environments. Focused on model interpretability and the application of suitable, simple algorithms for classification based on microbial abundance patterns.
+
+[View Repository](https://github.com/ArthurG-data/bioinformatics_portfolio)
+
 #### Grazing into the Futur
 
 Developed and implemented a comprehensive time series forecasting model using Vector Autoregression (VAR) and Recurrent Neural Networks (RNNs). Utilized R for data preprocessing, analysis, and visualization, with Python for modeling and algorithm optimization. The project involved applying VAR to capture the linear relationships between multiple time series and leveraging RNNs for learning complex temporal dependencies. Focused on model evaluation, performance tuning, and result interpretation for accurate forecasting in dynamic environments.
