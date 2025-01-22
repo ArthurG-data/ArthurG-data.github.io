@@ -74,7 +74,7 @@ Developed an AI-based Sokoban puzzle solver using Python, leveraging search algo
 
 [View Repository](https://github.com/ArthurG-data/ai_puzzle_solving)
 
-#### Automated Fungi Image Classification, using pytorch 
+#### Automated Fungi Image Classification
 
 The solution for the Automated Fungi Classification project employs a Vision Transformer (DINO) as the feature extractor, utilizing the dinov2_vits14 model from the torch.hub library. The extracted features are passed through a lightweight custom classifier built with PyTorch, featuring a fully connected network with ReLU activation. This approach ensures efficient processing and high accuracy while adhering to the project's computational and runtime constraints.
 
